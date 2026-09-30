@@ -7,7 +7,7 @@ However, since it is a third-party application running alongside the game, **use
 
 ## Credits & Changes
 
-This project was originally created by LuciusFKR, and I later expanded on it using AI.
+This project was originally created by LuciusRVN, and I later expanded on it using AI.
 Changes I made using AI:
 
 - Changed the user interface to make it look more like an actual CS2 case opening and made the interface before opening a case more compact.
